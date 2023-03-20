@@ -1,3 +1,5 @@
+<img src="https://repository-images.githubusercontent.com/616699225/b34fdea4-221d-4ec5-bc27-69b6b2838fd5">
+
 # estudos
 Meus Estudos
 Este é o meu repositório de estudos, onde compro cursos, acompanho e desenvolvo, salvando-os para futuras consultas. Aqui, eu tenho o Power BI, Jupyter (que utilizo no VS Code) e Python (incluindo bibliotecas: Pandas e Numpy). Você pode encontrar aqui o que estudei para desenvolver o que está no meu portfólio.
